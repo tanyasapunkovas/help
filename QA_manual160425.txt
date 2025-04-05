@@ -1,2 +1,3 @@
 Hello word
 This is my first work-first commit
+second commit в мене питання цей комміт,я додаю на сторінці в github.com,ви бачите,що я саме тут зробила цей комміт,а не в себе на комп'юторі?
